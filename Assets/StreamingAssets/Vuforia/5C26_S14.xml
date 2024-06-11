@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bls_envoyofthebeginning" size="0.100000 0.147233" />
+    <ImageTarget name="blacklustersoldierenvoyofthebeginning" size="0.600000 0.883399" />
+    <ImageTarget name="galaxyeyesphotondragon" size="0.100000 0.145530" />
+  </Tracking>
+</QCARConfig>
